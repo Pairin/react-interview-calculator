@@ -29,6 +29,7 @@ Create a functional calculator that matches the design provided
 - How close to the designs you can be
   - Css skills
 - Structure of the application/directories
+- How well you can utilize components
 
 ### Bonus
 - Add button to `undo` previous inputed number
